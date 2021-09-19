@@ -6,6 +6,7 @@ a sus montos de dinero, a su numero de cuenta, a la edad del usuario, o a los
 meses desde que se abrio la cuenta. 
 
 paso 1. compila/corre el programa
+
 paso 2. escribe el numero de una de las opciones que ves en pantalla y presiona enter
 
 con esos pasos le programa ya debio haber escrito el resultado en consola
